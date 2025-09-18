@@ -1,0 +1,12 @@
+[submodule "Documentation/doxygen-awesome-css"]
+	path = Documentation/doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git
+[submodule "HPUI-Core"]
+	path = HPUI-Core
+	url = https://github.com/ovi-lab/HPUI-Core
+[submodule "HPUI-Components"]
+	path = HPUI-Components
+	url = https://github.com/ovi-lab/HPUI-Components
+[submodule "HPUI-Cone-Interactor"]
+	path = HPUI-Cone-Interactor
+	url = https://github.com/ovi-lab/HPUI-Cone-Interactor
